@@ -37,7 +37,13 @@ export default function Home() {
         </p>
         <br></br>
         <p class="py-3">
-          Message us via Instagram today to learn more about how we can make your next event one to remember.
+          Contact us today to learn more about how we can make your next event one to remember.
+        </p>
+        <p>
+          Itsinseason@outlook.com
+        </p>
+        <p>
+          817-2622977
         </p>
         <a href="https://www.instagram.com/its_in_season" class="relative inline-block text-lg group">
           <span class="relative z-10 block px-5 py-3 overflow-hidden font-medium leading-tight text-gray-800 transition-colors duration-300 ease-out border-2 border-gray-900 group-hover:text-white">
