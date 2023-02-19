@@ -9,14 +9,14 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Its in season</title>
-        <meta name="description" content="High end catering and private events by Las Vegas private Chef" />
+        <title>It's in Season - High end catering and private events.</title>
+        <meta name="description" content="High end catering and private events." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
         <p>
-          Its in Season
+          It's in Season
         </p>
         <p>
           High end catering and private events
