@@ -36,13 +36,13 @@ export default function Home() {
           So if you're looking for a catering experience that is truly exceptional, look no further than It's in Season.
         </p>
         <br></br>
-        <p class="py-3">
+        <p class="pb-6">
           Contact us today to learn more about how we can make your next event one to remember.
         </p>
         <p>
           Itsinseason@outlook.com
         </p>
-        <p>
+        <p class="pb-4">
           817-262-2977
         </p>
         <a href="https://www.instagram.com/its_in_season" class="relative inline-block text-lg group">
